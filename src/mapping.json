@@ -1,0 +1,159 @@
+{
+    "rq": {
+        "greet": [
+            "hi",
+            "hello",
+            "yo",
+            "你好",
+            "哈囉"
+        ],
+        "wru": [
+            "你是誰",
+            "who are you"
+        ],
+        "taitai": [
+            "泰泰",
+            "葉長泰",
+            "阿泰",
+            "屁泰",
+            "屁孩"
+        ],
+        "jeff": [
+            "臭嘴",
+            "李國駿",
+            "jeff",
+            "姐夫",
+            "傑夫"
+        ],
+        "133": [
+            "133"
+        ],
+        "chris": [
+            "啟瑞",
+            "台灣阿瑞",
+            "chris",
+            "江江"
+        ],
+        "yasuko": [
+            "安安",
+            "里長伯",
+            "瘋女18",
+            "瘋女十八",
+            "yasuko"
+        ],
+        "vincent": [
+            "vincent",
+            "帥哥",
+            "達爸"
+        ],
+        "daniel": [
+            "可愛彤彤",
+            "彤彤",
+            "丹尼爾",
+            "P社蕭敬騰",
+            "daniel"
+        ],
+        "johnson": [
+            "johnson",
+            "強森",
+            "P社周杰倫"
+        ],
+        "qqwei": [
+            "qqwei",
+            "俊偉",
+            "地下總監"
+        ]
+    },
+    "rp": {
+        "greet": {
+            "type": "sticker",
+            "content": [
+                [1, 138]
+            ],
+            "msg": "你好呦～～～～～～"
+        },
+        "wru": {
+            "type": "text",
+            "content": [
+            ],
+            "msg": "我是彩虹機器人"
+        },
+        "jeff": {
+            "type": "img",
+            "content": [
+                "MPrEvFQ",
+                "NdBEYYe",
+                "5mv5Hsh",
+                "dit4QCi"
+            ],
+            "msg": "高清素材到囉～"
+        },
+        "chris": {
+            "type": "img",
+            "content": [
+                "oBpz4u6",
+                "hc1yqUR",
+                "uF6iCPW",
+                "oBWGcYc",
+                "Go5l27N"
+            ],
+            "msg": "高清素材奉上"
+        },
+        "vincent": {
+            "type": "img",
+            "content": [
+                "B2ZPWGx",
+                "wnN4VxJ",
+                "PzwLfWf"
+            ],
+            "msg": "還不快點存起來"
+        },
+        "133": {
+            "type": "img",
+            "content": [
+                "wpA42IL",
+                "QT5W2RF"
+            ],
+            "msg": "素材好讚讚讚"
+        },
+        "yasuko": {
+            "type": "img",
+            "content": [
+                "ECOVFaY",
+                "p3eP1r0"
+            ],
+            "msg": "素材到貨"
+        },
+        "taitai": {
+            "type": "img",
+            "content": [
+                "EyGQaRr",
+                "qYxPVQm"
+            ],
+            "msg": "素材好屁"
+        },
+        "daniel": {
+            "type": "img",
+            "content": [
+                "yLEqGvQ",
+                "NDQqFgm"
+            ],
+            "msg": "素材來囉～"
+        },
+        "johnson": {
+            "type": "img",
+            "content": [
+                "Jys8BKS",
+                "7QYp16f"
+            ],
+            "msg": "素材 get "
+        },
+        "qqwei": {
+            "type": "img",
+            "content": [
+                "EvQmuRc"
+            ],
+            "msg": "素材降臨～"
+        }
+    }
+}
