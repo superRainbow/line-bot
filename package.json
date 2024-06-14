@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node index.js"
+    "server": "node index.js",
+    "llm": "lms server start"
   },
   "author": "rainbow",
   "license": "ISC",
   "dependencies": {
+    "@lmstudio/sdk": "^0.0.12",
     "dotenv": "^8.2.0",
     "linebot": "^1.6.0"
   }
